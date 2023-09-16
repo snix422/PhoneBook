@@ -1,0 +1,15 @@
+.favorite-contact-container {
+    display:flex;
+    justify-items: center;
+    gap:2rem;
+   
+  
+}
+
+span {
+    font-weight:bold;
+}
+
+.add-to-favorite {
+    
+}
